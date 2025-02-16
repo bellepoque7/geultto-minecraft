@@ -36,7 +36,8 @@ player_name_map = {
     "kangdaehyup": "강승현",
     "suminping": "김수민b",
     "nakjunnakjun": "황낙준",
-    "NamiHam" : "남희정"
+    "NamiHam" : "남희정",
+    "gomshiki" : "김준성"
 }
 
 # 🔄 이전 접속자 목록 저장 (비교를 위해 사용)
